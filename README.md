@@ -1,5 +1,5 @@
 ## Melnikov Dmitry
-### Backend / DevOps
+### DevOps
 
 <br />
 <br />
